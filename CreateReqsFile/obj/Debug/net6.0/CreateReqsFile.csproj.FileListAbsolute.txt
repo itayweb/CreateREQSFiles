@@ -1,0 +1,15 @@
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\bin\Debug\net6.0\CreateReqsFile.exe
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\bin\Debug\net6.0\CreateReqsFile.deps.json
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\bin\Debug\net6.0\CreateReqsFile.runtimeconfig.json
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\bin\Debug\net6.0\CreateReqsFile.dll
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\bin\Debug\net6.0\CreateReqsFile.pdb
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.csproj.AssemblyReference.cache
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.AssemblyInfoInputs.cache
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.AssemblyInfo.cs
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.csproj.CoreCompileInputs.cache
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.dll
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\refint\CreateReqsFile.dll
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.pdb
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\CreateReqsFile.genruntimeconfig.cache
+C:\Users\itay\Downloads\Projects\CreateReqsFile\CreateReqsFile\obj\Debug\net6.0\ref\CreateReqsFile.dll
